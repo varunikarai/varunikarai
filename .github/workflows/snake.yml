@@ -29,25 +29,8 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake.svg
 
-      - name: Match snake palette to profile theme
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          path = Path('assets/github-contribution-grid-snake.svg')
-          if not path.exists():
-              raise SystemExit('Snake SVG was not generated')
-          text = path.read_text()
-          replacements = {
-              '#0E4429': '#0D1117',
-              '#006D32': '#F7A8C4',
-              '#26A641': '#C8A2C8',
-              '#39D353': '#F7A8C4',
-              '#161B22': '#0D1117',
-          }
           for old, new in replacements.items():
               text = text.replace(old, new)
-          path.write_text(text)
-          PY
 
       - name: Commit and push generated snake
         run: |
