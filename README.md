@@ -26,9 +26,9 @@ I’m an aspiring AI and ML developer focused on turning ideas into practical pr
 
 ## GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunikarai&show_icons=true&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=F2F2F2&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunikarai&layout=compact&hide_border=true&title_color=F7A8C4&text_color=F2F2F2&bg_color=0D1117) |
-|---|---|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunikarai&theme=github-compact&bg_color=0D1117&color=F7A8C4&line=C8A2C8&point=FFFFFF) |
+
+
+  |                       ![GitHub Streak](https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4)          ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunikarai&theme=github-compact&bg_color=0D1117&color=F7A8C4&line=C8A2C8&point=FFFFFF)    |
 
 ## Connect
 
