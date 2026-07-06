@@ -31,15 +31,7 @@ I’m an aspiring AI and machine learning developer focused on building practica
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunikarai&show_icons=true&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=F2F2F2&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunikarai&layout=compact&hide_border=true&title_color=F7A8C4&text_color=F2F2F2&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -56,14 +48,6 @@ I’m an aspiring AI and machine learning developer focused on building practica
 | RNN Learning Project | Building understanding around sequence modeling and recurrent networks. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C8A2C8?style=flat-square&logo=pytorch&logoColor=white) <br> [Repository](https://github.com/varunikarai/your-repo) |
 | UBTAN Salon Website | A polished front-end project with a calm, modern feel. <br> ![React](https://img.shields.io/badge/React-C8A2C8?style=flat-square&logo=react&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F7A8C4?style=flat-square&logo=css3&logoColor=white) <br> [Repository](https://github.com/varunikarai/your-repo) |
 
-## Learning Roadmap
-
-| Programming | → | Machine Learning | → | Deep Learning | → | Computer Vision | → | LLMs | → | AI Engineering |
-|---|---|---|---|---|---|---|---|---|---|---|
-
-## Quote
-
-> “Stay curious enough to understand, and disciplined enough to build.”
 
 ## Connect
 
