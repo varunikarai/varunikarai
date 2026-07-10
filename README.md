@@ -43,10 +43,10 @@ I’m an aspiring AI and machine learning developer focused on building practica
 | Project | Details |
 |---|---|
 | BeyondHorizons_Agrisense | AI-driven project focused on practical problem solving. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C8A2C8?style=flat-square&logo=pytorch&logoColor=white) <br> [Repository](https://github.com/varunikarai/your-repo) |
-| Papertrail Assignment | Structured exploration of applied machine learning concepts. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-C8A2C8?style=flat-square) <br> [Repository](https://github.com/varunikarai/your-repo) |
+| Papertrail Assignment | Structured exploration of applied machine learning concepts. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-C8A2C8?style=flat-square) <br> [Repository](https://github.com/varunikarai/PaperTrail) |
 | CNN Image Classification | Deep learning project centered on image classification workflows. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C8A2C8?style=flat-square&logo=pytorch&logoColor=white) <br> [Repository](https://github.com/varunikarai/your-repo) |
 | RNN Learning Project | Building understanding around sequence modeling and recurrent networks. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C8A2C8?style=flat-square&logo=pytorch&logoColor=white) <br> [Repository](https://github.com/varunikarai/your-repo) |
-| UBTAN Salon Website | A polished front-end project with a calm, modern feel. <br> ![React](https://img.shields.io/badge/React-C8A2C8?style=flat-square&logo=react&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F7A8C4?style=flat-square&logo=css3&logoColor=white) <br> [Repository](https://github.com/varunikarai/https://github.com/varunikarai/UBTAN-Salon) |
+| UBTAN Salon Website | A polished front-end project with a calm, modern feel. <br> ![React](https://img.shields.io/badge/React-C8A2C8?style=flat-square&logo=react&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F7A8C4?style=flat-square&logo=css3&logoColor=white) <br> [Repository](https://github.com/varunikarai/UBTAN-Salon) |
 
 
 ## Connect
