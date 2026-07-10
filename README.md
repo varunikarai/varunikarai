@@ -1,4 +1,4 @@
-# Heyy! It's Varunika Rai <3
+# Heyyy! It's Varunika Rai <3
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7A8C4&center=true&vCenter=true&width=700&lines=Heyy!+It's+Varunika+Rai+<3;Aspiring+AI+Engineer;Machine+Learning+Developer;Building+Thoughtfully" alt="Typing SVG" />
