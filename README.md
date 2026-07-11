@@ -31,7 +31,7 @@ I’m an aspiring AI and machine learning developer focused on building practica
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
