@@ -34,10 +34,6 @@ I’m an aspiring AI and machine learning developer focused on building practica
   <img src="https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&v=1" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunikarai&theme=github-compact&bg_color=0D1117&color=F7A8C4&line=C8A2C8&point=FFFFFF" alt="Contribution Graph" />
-</p>
-
 ## Featured Projects
 
 | Project | Details |
