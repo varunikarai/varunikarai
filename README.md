@@ -21,7 +21,6 @@ I’m an aspiring AI and machine learning developer focused on building practica
 - LLM Applications
 - RAG Systems
 - AI Engineering
-- Building for the [Nebius x NVIDIA Global AI Hackathon](https://nebiusglobalaihackathon.devpost.com/)
 
 ## Tech Stack
 
