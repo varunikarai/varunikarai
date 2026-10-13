@@ -39,6 +39,7 @@ I’m an aspiring AI and machine learning developer focused on building practica
 | Project | Details |
 |---|---|
 | Loadbearing <br> Nebius x NVIDIA Global AI Hackathon | Finds which inputs a pipeline is actually load-bearing on, by checkpoint-and-fork over mutated inputs. Built on Nebius Token Factory with NVIDIA Nemotron models. Team build with [Aeshvarya Awasthi](https://github.com/Aeshvarya). Repository is private until release. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA%20Nemotron-C8A2C8?style=flat-square&logo=nvidia&logoColor=white) <br> [Hackathon](https://nebiusglobalaihackathon.devpost.com/) |
+| Countersign <br> Airwallex Agentic Banking Hackathon, Track 10 | A merchant checkout that countersigns a verified shopping agent and the shopper's approved terms before any money moves. Visa Trusted Agent Protocol signing, Airwallex rate locks, and a signed receipt a dispute team can check offline. Team build with [Aeshvarya Awasthi](https://github.com/Aeshvarya). Repository is private until release. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![Airwallex](https://img.shields.io/badge/Airwallex-C8A2C8?style=flat-square) ![Visa TAP](https://img.shields.io/badge/Visa%20TAP-F7A8C4?style=flat-square&logo=visa&logoColor=white) <br> [Hackathon](https://airwallex.hackerearth.com/) |
 
 ## Featured Projects
 
