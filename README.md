@@ -34,11 +34,16 @@ I’m an aspiring AI and machine learning developer focused on building practica
   <img src="https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&v=1" alt="GitHub Streak" />
 </p>
 
+## Ongoing Hackathons
+
+| Project | Details |
+|---|---|
+| Loadbearing <br> Nebius x NVIDIA Global AI Hackathon | Finds which inputs a pipeline is actually load-bearing on, by checkpoint-and-fork over mutated inputs. Built on Nebius Token Factory with NVIDIA Nemotron models. Team build with [Aeshvarya Awasthi](https://github.com/Aeshvarya). Repository is private until release. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA%20Nemotron-C8A2C8?style=flat-square&logo=nvidia&logoColor=white) <br> [Hackathon](https://nebiusglobalaihackathon.devpost.com/) |
+
 ## Featured Projects
 
 | Project | Details |
 |---|---|
-| Nebius x NVIDIA Global AI Hackathon | In progress. Building on Nebius Token Factory with NVIDIA Nemotron models. Repository goes public with the submission. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA%20Nemotron-C8A2C8?style=flat-square&logo=nvidia&logoColor=white) <br> [Hackathon](https://nebiusglobalaihackathon.devpost.com/) |
 | BeyondHorizons_Agrisense | AI-driven project focused on practical problem solving. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C8A2C8?style=flat-square&logo=pytorch&logoColor=white) <br> [Repository](https://github.com/varunikarai/BeyondHorizons_Agrisense) |
 | Papertrail Assignment | Structured exploration of applied machine learning concepts. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-C8A2C8?style=flat-square) <br> [Repository](https://github.com/varunikarai/PaperTrail) |
 | UBTAN Salon Website | A polished front-end project with a calm, modern feel. <br> ![React](https://img.shields.io/badge/React-C8A2C8?style=flat-square&logo=react&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F7A8C4?style=flat-square&logo=css3&logoColor=white) <br> [Repository](https://github.com/varunikarai/UBTAN-Salon) |
