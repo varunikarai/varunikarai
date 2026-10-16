@@ -21,6 +21,7 @@ I’m an aspiring AI and machine learning developer focused on building practica
 - LLM Applications
 - RAG Systems
 - AI Engineering
+- Open Source (anomalib, OpenVINO)
 
 ## Tech Stack
 
