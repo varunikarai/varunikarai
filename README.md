@@ -41,6 +41,12 @@ I’m an aspiring AI and machine learning developer focused on building practica
 | Loadbearing <br> Nebius x NVIDIA Global AI Hackathon | Finds which inputs a pipeline is actually load-bearing on, by checkpoint-and-fork over mutated inputs. Built on Nebius Token Factory with NVIDIA Nemotron models. Team build with [Aeshvarya Awasthi](https://github.com/Aeshvarya). Repository is private until release. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA%20Nemotron-C8A2C8?style=flat-square&logo=nvidia&logoColor=white) <br> [Hackathon](https://nebiusglobalaihackathon.devpost.com/) |
 | Countersign <br> Airwallex Agentic Banking Hackathon, Track 10 | A merchant checkout that countersigns a verified shopping agent and the shopper's approved terms before any money moves. Visa Trusted Agent Protocol signing, Airwallex rate locks, and a signed receipt a dispute team can check offline. Team build with [Aeshvarya Awasthi](https://github.com/Aeshvarya). Repository is private until release. <br> ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![Airwallex](https://img.shields.io/badge/Airwallex-C8A2C8?style=flat-square) ![Visa TAP](https://img.shields.io/badge/Visa%20TAP-F7A8C4?style=flat-square&logo=visa&logoColor=white) <br> [Hackathon](https://airwallex.hackerearth.com/) |
 
+## Open Source
+
+| Project | Details |
+|---|---|
+| anomalib <br> OpenVINO Toolkit (Intel) | Fix for [#3726](https://github.com/open-edge-platform/anomalib/issues/3726): an exported PatchCore model scored defects differently from its own checkpoint, because `predict` silently kept the constructor's arguments while `export` restored the checkpoint's. The fix warns when the two differ. Root cause confirmed by the reporter on their data. <br> ![PR #3846](https://img.shields.io/github/pulls/detail/state/open-edge-platform/anomalib/3846?style=flat-square&label=PR%20%233846) ![Python](https://img.shields.io/badge/Python-F7A8C4?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C8A2C8?style=flat-square&logo=pytorch&logoColor=white) <br> [Pull request](https://github.com/open-edge-platform/anomalib/pull/3846) |
+
 ## Featured Projects
 
 | Project | Details |
