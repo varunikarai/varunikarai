@@ -35,6 +35,22 @@ I’m an aspiring AI and machine learning developer focused on building practica
   <img src="https://streak-stats.demolab.com?user=varunikarai&theme=dark&hide_border=true&background=0D1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&v=1" alt="GitHub Streak" />
 </p>
 
+## Recent Activity
+
+<!-- ACTIVITY:START -->
+
+_Updated automatically on 2026-11-29 (IST) from public GitHub activity._
+
+**Merged pull requests:** 3, across anomalib, qutip, sbi.
+
+- 2026-11-17 · [qutip/qutip #3070](https://github.com/qutip/qutip/pull/3070): Document the hbar = 1 convention of the solvers
+- 2026-10-27 · [sbi-dev/sbi #2085](https://github.com/sbi-dev/sbi/pull/2085): fix: bin TARP coverage values over [0, 1]
+- 2026-10-27 · [open-edge-platform/anomalib #3853](https://github.com/open-edge-platform/anomalib/pull/3853): fix(model): keep PatchCore's batch size dynamic when exporting
+
+**Last 30 days:** 2 commits · 1 pull request · 1 issue · 0 reviews, in [open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib), [qutip/qutip](https://github.com/qutip/qutip), [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy).
+
+<!-- ACTIVITY:END -->
+
 ## Open Source
 
 | Project | Details |

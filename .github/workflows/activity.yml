@@ -1,0 +1,41 @@
+name: Update README activity
+
+on:
+  schedule:
+    - cron: '30 6 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Rebuild activity block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_activity.py README.md
+
+      - name: Commit and push
+        env:
+          TZ: Asia/Kolkata
+        run: |
+          git config user.name "varunika rai"
+          git config user.email "237732441+varunikarai@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update activity ($(date +%F))"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              sleep 5
+            done
+          fi
